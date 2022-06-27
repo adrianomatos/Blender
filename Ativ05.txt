@@ -1,0 +1,13 @@
+Atividade 05 - Objetos Diversos
+Samuel Levi Silva de Oliveira
+•
+30 de mar.
+10 pontos
+Nessa semana vocês terão que modelar os seguintes objetos:
+
+
+Picolé
+Cálice
+Computador com Teclado e Monitor
+Estante
+Barril

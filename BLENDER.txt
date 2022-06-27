@@ -1,0 +1,35 @@
+AULA 01
+g - move
+r - rotaciona
+s - escala
+shift d - duplicar
+x - somente eixo x
+y - somente eixo y
+z - somente eixo z
+shift c - RESETA lugar do cursor
+
+AULA 02 - MODO DE EDIÇÃO 
+1-pontos/vértices, 2-arestas e 3-faces
+numpad 1 a 9 - Posições da câmera 
+shift seleção - seleciona vários
+
+AULA 03 - EXTRUSÃO E INSET
+e - extrusão/prolongamento
+E+S - extrusão da aresta
+e(comum) - || nas faces selecionadas
+e(individual) - || nas faces selecionadas (alt + e)
+CTRL+R - CRIAR DIVISÃO NA FACE(opt. mouse +ou-)
+i - cria inset igual e+s
+OBS: I2x deixa fazer inset independente d outro
+i+control - cria profundidade p cima ou baixo 
+
+chanfro (ctrl+b) - Arredondamento de vértices
+shift+s - opções p/ fixar origem de insert. object 
+L - seleciona todo o objeto
+A - seleciona todos os objetos juntos
+shift+d - duplica objeto
+
+AULA 04 - Low Poly e exercícios
+S+Shift+Z - Escala exceto em posição Z
+alt+click - seleciona toda a linha
+shift+z - visualiza apenas obj selecionado

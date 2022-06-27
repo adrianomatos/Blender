@@ -1,0 +1,7 @@
+Atividade 13 - Pose corrida
+Samuel Levi Silva de Oliveira
+•
+25 de mai.
+10 pontos
+Nessa atividade faremos o que foi pedido no vídeo da aula 12, uma pose do nosso bonequinho como se estivesse correndo.
+É só posar o boneco como se fosse correr e tirar prints ou renderizar. O resultado cola no docs.

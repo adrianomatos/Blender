@@ -1,0 +1,12 @@
+Atividade 07 - Modelagem de veículos low poly
+Samuel Levi Silva de Oliveira
+•
+13 de abr.
+10 pontos
+Pra essa atividade vocês terão que modelar 3 tipos de veículos automotores diferentes:
+Uma caminhonete;
+Um furgão;
+Um carro esportivo;
+
+
+Como sempre, print ou arquivos de imagem no docs.

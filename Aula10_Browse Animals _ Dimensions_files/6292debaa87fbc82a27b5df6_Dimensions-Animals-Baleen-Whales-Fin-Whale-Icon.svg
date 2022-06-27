@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="750px" height="750px"
+	 viewBox="0 0 750 750" style="enable-background:new 0 0 750 750;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FB8604;}
+	.st2{fill:none;stroke:#FB8604;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FB8604;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:none;stroke:#FB8604;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8868,4.8113;}
+	.st5{fill:none;stroke:#FB8604;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.2,5.3333;}
+	.st6{fill:none;stroke:#FB8604;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.7333,4.5556;}
+	.st7{fill:none;stroke:#FB8604;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.5521,4.2535;}
+	.st8{fill:none;stroke:#FB8604;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3,5;}
+	.st9{fill:none;stroke:#FB8604;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.2261,5.3768;}
+	.st10{fill:none;stroke:#FB8604;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.913,4.8551;}
+	.st11{fill:none;stroke:#FB8604;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9189,4.8649;}
+	.st12{fill:none;stroke:#FB8604;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0724,5.1207;}
+	.st13{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st14{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.1455,5.2425;}
+	.st15{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.38,3.9667;}
+	.st16{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.2549,3.7582;}
+	.st17{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.4292,4.0487;}
+	.st18{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9004,4.834;}
+	.st19{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8406,4.7343;}
+	.st20{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0022,5.0036;}
+	.st21{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.902,4.8366;}
+	.st22{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9975,4.9958;}
+	.st23{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0105,5.0175;}
+	.st24{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.1919,3.6532;}
+	.st25{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.5854,4.309;}
+	.st26{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.5937,2.6561;}
+	.st27{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.6573,6.0956;}
+	.st28{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.949,4.915;}
+	.st29{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8177,4.6961;}
+	.st30{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8606,4.7676;}
+	.st31{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.3915,3.9859;}
+	.st32{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.266,3.7767;}
+	.st33{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.441,4.0683;}
+	.st34{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9122,4.8536;}
+	.st35{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8522,4.7536;}
+	.st36{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0069,5.0114;}
+	.st37{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0029,5.0049;}
+	.st38{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9464,4.9107;}
+	.st39{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9635,4.9392;}
+	.st40{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.8274,3.0456;}
+	.st41{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8261,4.7101;}
+	.st42{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.0201,3.3668;}
+	.st43{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0195,5.0325;}
+	.st44{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.3062,3.8437;}
+	.st45{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8758,4.793;}
+	.st46{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.1883,5.3139;}
+	.st47{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9919,4.9865;}
+	.st48{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9875,4.9792;}
+	.st49{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0312,5.052;}
+	.st50{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.99,4.9834;}
+	.st51{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9978,4.9963;}
+	.st52{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9926,4.9877;}
+	.st53{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.5289,4.2148;}
+	.st54{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.3977,3.9962;}
+	.st55{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.5804,4.3007;}
+	.st56{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0527,5.0878;}
+	.st57{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9902,4.9837;}
+	.st58{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9932,4.9887;}
+	.st59{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.2364,3.7274;}
+	.st60{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.117,3.5284;}
+	.st61{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.2826,3.8043;}
+	.st62{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.7537,4.5895;}
+	.st63{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.6967,4.4945;}
+	.st64{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.013,5.0216;}
+	.st65{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3,5;}
+	.st66{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8521,4.7535;}
+	.st67{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.015,5.025;}
+	.st68{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.0573,3.4289;}
+	.st69{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.4448,4.0747;}
+	.st70{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.4544,5.7574;}
+	.st71{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.7999,4.6666;}
+	.st72{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.6539,4.4232;}
+	.st73{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9854,4.9756;}
+	.st74{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9624,4.9373;}
+	.st75{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0011,5.0019;}
+	.st76{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9763,4.9605;}
+	.st77{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.752,4.5866;}
+	.st78{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.616,6.0267;}
+	.st79{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9602,4.9336;}
+	.st80{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.4336,5.7227;}
+	.st81{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.9985,3.3309;}
+	.st82{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.4594,4.099;}
+	.st83{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.7161,4.5269;}
+	.st84{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.788,4.6466;}
+	.st85{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.041,3.4017;}
+	.st86{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0618,5.1029;}
+	.st87{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9346,4.891;}
+	.st88{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0108,5.0181;}
+	.st89{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9662,4.9436;}
+	.st90{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0816,5.1361;}
+	.st91{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9292,4.882;}
+	.st92{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.1434,5.239;}
+	.st93{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9751,4.9584;}
+	.st94{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9148,4.858;}
+	.st95{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9955,4.9925;}
+	.st96{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9503,4.9172;}
+	.st97{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9995,4.9992;}
+	.st98{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9952,4.992;}
+	.st99{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9573,4.9289;}
+	.st100{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.4922,4.1537;}
+	.st101{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.3625,3.9376;}
+	.st102{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.5432,4.2386;}
+	.st103{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0152,5.0253;}
+	.st104{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9534,4.9224;}
+	.st105{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0508,5.0846;}
+	.st106{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0019,5.0032;}
+	.st107{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8103,4.6838;}
+	.st108{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9153,4.8589;}
+	.st109{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.6596,4.4327;}
+	.st110{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.0332,3.3886;}
+	.st111{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0931,5.1552;}
+	.st112{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0402,5.067;}
+	.st113{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9774,4.9623;}
+	.st114{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9698,4.9497;}
+	.st115{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0558,5.093;}
+	.st116{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.5316,4.2194;}
+	.st117{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.5067,2.5112;}
+	.st118{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.4118,4.0197;}
+	.st119{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.6749,2.7915;}
+	.st120{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.5801,4.3001;}
+	.st121{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.9241,3.2069;}
+	.st122{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.8201,4.7001;}
+	.st123{fill:none;stroke:#FB8604;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.181,5.3016;}
+	.st124{fill:none;stroke:#FB8604;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st125{fill:none;stroke:#FB8604;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st126{fill:none;stroke:#FB8604;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st127{fill:none;stroke:#FB8604;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st128{fill:none;stroke:#FB8604;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="9750" width="5207.29" x="-2000" y="-1314"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="FILL-BACKGROUND">
+	<rect class="st0" width="750" height="750"/>
+</g>
+<g id="N-DIMENSIONS">
+</g>
+<g id="N-TEXT">
+</g>
+<g id="_x32_D_x24_AG-DETAILS-DIAGRAM">
+</g>
+<g id="_x32_D_x24_AG-DETAILS">
+	<g id="POLYLINE_00000005979370457311325140000016205851187365366701_">
+		<path class="st2" d="M455.66,415.62c18.47,2.07,37.77,3.62,56.33,3.74c31.38,0.36,67.23-2.96,98.64-3.91
+			c7.52-0.19,15.84-0.19,23.35,0.15c7.31,0.33,21.99,1.39,29.16,1.11c7.94-0.2,15.89-1.73,23.6-3.54"/>
+	</g>
+	<g id="POLYLINE_00000124872603099874061440000012545627285002116284_">
+		<path class="st2" d="M366.2,402.2c23.97,4.55,50.97,8.55,75.16,11.69"/>
+	</g>
+	<g id="POLYLINE_00000054954944213069484460000011661808082813179325_">
+		<path class="st2" d="M461.32,413.08c10.95,1.11,23.05,2.07,34.01,2.44c10.22,0.38,21.54,0.24,31.79-0.1l56.05-2.67
+			c9.5-0.28,21.72-0.51,31.15-0.39l27.66,0.64c5.11,0.06,10.57,0.01,15.65-0.48c5.58-0.51,11.32-1.57,16.81-2.73"/>
+	</g>
+	<g id="POLYLINE_00000064353702106107938320000003005273952068763323_">
+		<path class="st2" d="M372.6,400.05c22.82,4.36,48.56,8.15,71.61,11.08"/>
+	</g>
+	<g id="POLYLINE_00000129204401130021893440000003673611701013372573_">
+		<path class="st2" d="M467.34,410.48c8.69,0.75,18.19,1.39,26.88,1.59c9.29,0.25,19.66-0.01,28.97-0.43
+			c13.53-0.71,39.29-2.38,52.51-2.41c14.89-0.19,41.36,0.51,56.25,0.21c5.15-0.12,10.87-0.37,15.99-0.91
+			c4.63-0.48,9.62-1.26,14.2-2.12"/>
+	</g>
+	<g id="POLYLINE_00000037662766317987804970000002808697030935883967_">
+		<path class="st2" d="M378.99,397.89c21.72,4.2,46.34,7.76,68.32,10.48"/>
+	</g>
+	<g id="POLYLINE_00000164501927596104976620000017471989860594805162_">
+		<path class="st2" d="M474.08,407.81c11,0.76,22.6,1.05,33.6,0.62c19.05-0.69,41.51-3.12,60.53-2.7
+			c11.86,0.25,34.56,1.14,46.11,0.55c11.7-0.49,23.93-1.45,35.5-3.23"/>
+	</g>
+	<g id="POLYLINE_00000176745196264081253190000011154506472854146952_">
+		<path class="st2" d="M385.39,395.74c21.03,4.07,44.04,7.42,65.31,9.9"/>
+	</g>
+	<g id="POLYLINE_00000037688115415147554690000011490424240300211639_">
+		<path class="st2" d="M482.5,404.98c6,0.21,12.53,0.2,18.54-0.03c10.49-0.37,27.72-1.98,38.32-2.6c6.98-0.39,14.39-0.42,21.38-0.13
+			c9.39,0.4,27.01,1.65,36.22,1.22c3.62-0.12,7.78-0.42,11.4-0.75c5.18-0.51,24.02-2.46,29.17-3.03"/>
+	</g>
+	<g id="POLYLINE_00000109014585555496029930000012080652726096130961_">
+		<path class="st2" d="M391.78,393.59c20.16,3.95,42.18,7.09,62.6,9.33"/>
+	</g>
+	<g id="POLYLINE_00000030487725314169766560000013781103989404192903_">
+		<path class="st2" d="M498,401.36c1.45-0.08,4.38-0.27,5.83-0.38c6.25-0.53,24.74-2.35,30.65-2.55c4.41-0.21,9.09-0.22,13.5-0.02
+			c10.36,0.43,25.56,2.38,35.88,2.14c4.27-0.08,8.71-0.49,12.95-1.04c5.48-0.72,14.38-2.32,19.85-2.68l8.57-0.55"/>
+	</g>
+	<g id="POLYLINE_00000154423241557276195500000012578170502440141475_">
+		<path class="st2" d="M398.18,391.43c19.53,3.87,40.47,6.79,60.28,8.75"/>
+	</g>
+	<g id="POLYLINE_00000013881165003581418520000002999280237944661694_">
+		<path class="st2" d="M514.87,395.67c6.2-0.71,12.73-1.35,18.96-1.27c8.06,0.08,18.03,1.44,26.11,2.28
+			c4.74,0.47,9.7,0.85,14.46,0.74c3.3-0.08,6.67-0.42,9.93-0.91c3.99-0.57,10.33-1.95,14.33-2.69c1.86-0.34,3.89-0.63,5.77-0.76
+			c2.51-0.2,5.96-0.15,8.49-0.17"/>
+	</g>
+	<g id="POLYLINE_00000057863275147740922840000006448379351680064703_">
+		<path class="st2" d="M404.57,389.28c7.11,1.43,15.35,2.92,22.49,3.95c11.59,1.68,24.4,3.26,36.07,4.14"/>
+	</g>
+	<g id="POLYLINE_00000146461080147619086070000017946085818351429304_">
+		<path class="st2" d="M516.28,389.35c0-2.34-0.51-4.65-1.23-6.87c-1.24-3.76-3.15-7.32-5.6-10.43c-1.9-2.41-4.22-4.5-6.63-6.4
+			c-2.36-1.87-5.81-4.2-8.17-6.06c-0.81-0.64-1.61-1.32-2.33-2.06c-0.5-0.52-0.98-1.09-1.34-1.72c-1.17-2.01-0.78-4.25,1.12-5.64
+			c1.64-1.19,3.76-1.37,5.73-1.37c2.01,0.02,4.05,0.3,6.03,0.64c5.32,0.91,11.96,2.89,17.24,4.05c1.99,0.42,4.04,0.79,6.08,0.83
+			c1.28,0.02,2.58-0.12,3.8-0.51c2.12-0.68,3.95-2.06,5.48-3.65"/>
+	</g>
+	<g id="POLYLINE_00000085231270556318770880000012155237915795740068_">
+		<path class="st2" d="M557.4,388.99c-2.66-0.69-5.56-1.42-8.29-1.64c-3.46-0.31-7.01-0.16-10.47,0.13
+			c-4.36,0.39-8.76,1.09-13.02,2.11c-3.26,0.79-6.54,1.8-9.61,3.14"/>
+	</g>
+	<g id="POLYLINE_00000164474386871481150490000007793450210780009150_">
+		<path class="st2" d="M492.44,379.06c-0.25-1.38-0.33-2.95-0.72-4.3c-0.22-0.76-0.54-1.5-0.99-2.15c-0.44-0.64-1-1.2-1.61-1.69
+			c-1-0.8-2.13-1.45-3.26-2.06c-4.65-2.49-10.53-4.75-14.54-8.23c-1.14-0.99-2.16-2.13-2.95-3.42c-1.12-1.81-1.84-3.86-2.09-5.97
+			c-0.18-1.57-0.11-3.19,0.35-4.72c0.22-0.73,0.54-1.45,0.97-2.08c0.34-0.5,0.76-0.94,1.24-1.31c0.78-0.61,1.7-1.04,2.64-1.35
+			c1.5-0.49,3.11-0.72,4.67-0.92c5.98-0.68,12.26-1.63,18.25-0.69"/>
+	</g>
+	<g id="POLYLINE_00000045592067725786734830000001474113987759741058_">
+		<path class="st2" d="M195.27,393.73c-2.19-0.5-4.23-1.59-5.94-3.04c-0.91-0.77-1.73-1.64-2.44-2.59c-0.5-0.68-0.96-1.4-1.27-2.19
+			c-0.24-0.65-0.43-1.51,0.1-2.07l0.02-0.02l0.02-0.02l0.02-0.02l0.03-0.02l0.03-0.02l0.03-0.02l0.03-0.02l0.03-0.02l0.03-0.02
+			l0.03-0.02l0.03-0.02l0.03-0.02l0.03-0.02l0.03-0.02l0.03-0.02l0.03-0.02l0.04-0.02c0.71-0.29,1.53-0.31,2.28-0.3
+			c3.5,0.09,10.26,1.5,13.79,2.03c3.73,0.58,7.53,1,11.3,0.96c5.76-0.02,11.52-1.02,17.01-2.72c5.53-1.69,10.98-4.11,16.18-6.63
+			c12.38-5.96,25.59-13.31,39.24-15.59c4.85-0.83,9.84-0.87,14.72-0.4c7.55,0.65,17.69,3.16,25.19,4.52
+			c3.96,0.71,8.03,1.28,12.06,1.29c2.94,0.01,5.96-0.26,8.87-0.62c3.54-0.44,9.54-1.44,13.08-1.45c1.92-0.02,3.88,0.13,5.74,0.66
+			c2.16,0.61,4.16,1.69,6.03,2.92c3.18,2.1,6.71,5.11,9.86,7.25c2.59,1.8,5.38,3.39,8.26,4.68c8.99,4,18.8,6.2,28.43,8.05
+			c7.56,1.41,17.13,2.8,24.77,3.87c8.31,1.13,17.35,2.03,25.73,2.4"/>
+	</g>
+</g>
+<g id="_x32_D_x24_AG-ANIMALS">
+	<g id="POLYLINE_00000111164956852616055310000003697653138479963583_">
+		<path class="st125" d="M448.18,418.94c20.04,2.3,40.9,3.67,61.06,3.63c31.23,0.1,73.02-3.32,104.23-3.71
+			c5.76-0.07,13.59-0.01,19.32,0.18c5.73,0.21,18.84,0.76,24.35,0.78c8.07,0.07,16.43-0.34,24.44-1.33c6.87-0.89,13.9-2,20.48-4.2
+			c1.54-0.54,3.09-1.15,4.48-2c0.83-0.51,1.63-1.12,2.17-1.94c1.28-1.93-0.07-3.67-1.62-4.9c-1.89-1.48-4.13-2.5-6.34-3.41
+			c-5.67-2.26-11.89-3.83-17.82-5.3c-7.85-1.72-52.42-11.52-59.14-13.05c-1.8-0.36-4.03-0.8-5.83-1.07
+			c-2.74-0.42-5.58-0.72-8.35-0.75c-3.21-0.04-6.45,0.33-9.55,1.2c-7.54,2.03-14.8,6.51-22.63,7.48
+			c-6.69,0.87-13.49-0.16-20.04-1.58"/>
+	</g>
+	<g id="POLYLINE_00000028323107599990871950000000831171983511665839_">
+		<path class="st125" d="M103.57,400.47c3.94-0.67,8.16-1.06,12.16-1.32c15.3-0.89,33.26-0.56,48.44-2.35
+			c5.44-0.61,17.79-2.08,23.05-2.52c4.68-0.41,9.94-0.68,14.64-0.78c9.01-0.39,61.23,1.29,71.28,1.46
+			c3.59,0.12,9.02,0.38,12.61,0.65c6.35,0.46,13.5,1.24,19.83,2.02c34.43,4.41,98.15,15.92,132.39,20.09"/>
+	</g>
+	<g id="POLYLINE_00000173843538577910610560000016419641722324039097_">
+		<path class="st125" d="M122.01,384.08c-16.25,13.08-30.95,28.29-43.62,44.85c-7.4,9.56-18.25,24.76-26.35,33.47
+			c-1.62,1.71-3.34,3.4-5.2,4.85c-0.88,0.68-1.82,1.33-2.81,1.85c-0.56,0.29-1.15,0.56-1.78,0.69c-0.37,0.07-0.79,0.12-1.14-0.07
+			l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01c-0.17-0.12-0.28-0.3-0.34-0.5c-0.09-0.32-0.07-0.65-0.03-0.97
+			c0.07-0.48,0.2-0.96,0.35-1.42c0.26-0.8,0.62-1.61,0.97-2.38c1.83-3.86,4.57-8.75,6.26-12.65c2-4.53,3.75-9.38,5.24-14.11
+			c1.18-3.77,2.29-7.81,3.18-11.66c0.59-2.57,1.5-7.16,2.3-9.62c0.54-1.7,1.23-3.39,2.24-4.86c0.54-0.79,1.19-1.51,1.89-2.16
+			c0.95-0.91,2.26-1.93,3.19-2.84c0.52-0.52,1.02-1.09,1.28-1.79c0.24-0.63,0.16-1.32,0.01-1.95c-0.18-0.76-0.48-1.57-0.59-2.34
+			c-0.06-0.46-0.06-0.93,0.07-1.38c0.29-0.95,1.02-1.71,1.69-2.41c1.24-1.29,2.8-2.59,3.46-4.28c0.24-0.63,0.32-1.31,0.32-1.98
+			c0-1.25-0.35-2.69-0.4-3.94c-0.01-0.53,0.03-1.09,0.33-1.54c0.22-0.31,0.55-0.52,0.89-0.67c0.57-0.23,1.19-0.3,1.79-0.33
+			c2.06-0.07,4.13,0.33,6.13,0.76c3.59,0.8,7.16,1.91,10.43,3.61"/>
+	</g>
+	<g id="POLYLINE_00000161632945883301891260000010463926409019912623_">
+		<path class="st125" d="M81.2,398.43c2.17-2.15,8.12-7.84,10.41-10.03c7.13-7.02,19.03-19.25,26.58-25.49
+			c4.82-4.08,9.98-7.97,15.39-11.24c12.06-7.33,25.61-12.1,39.08-16.12c6.2-1.85,34.35-9.65,39.77-11.66
+			c2.15-0.75,4.36-1.58,6.41-2.55c1.28-0.62,2.57-1.29,3.63-2.26c0.62-0.57,1.12-1.31,1.22-2.16c0.07-0.54-0.01-1.09-0.15-1.62
+			c-0.26-0.91-0.7-1.76-1.19-2.57c-0.77-1.25-1.7-2.42-2.71-3.49c-0.37-0.41-1.5-1.46-1.78-2.01c-0.11-0.19-0.18-0.41-0.15-0.64
+			c0.03-0.23,0.18-0.44,0.35-0.6c0.38-0.34,0.86-0.53,1.35-0.66c0.65-0.16,1.33-0.2,1.99-0.19c1.02,0.02,2.06,0.16,3.06,0.33
+			c2.8,0.51,5.62,1.29,8.32,2.17c2.77,0.91,5.55,2.01,8.17,3.29c2.21,1.07,5.23,2.66,7.52,3.46c1.45,0.52,2.99,0.9,4.51,1.14
+			c2.45,0.39,5,0.51,7.48,0.58c10.69,0.18,44.22,0.17,54.46,0.7c8.44,0.33,18.51,0.97,26.93,1.71c26.12,2,99.46,13.34,126.35,17
+			c4.33,0.63,10.48,1.6,14.81,2.37c2.44,0.44,7.66,1.46,10.11,1.99c23,5.19,85.02,19.98,107.39,25.58c0,0,1.43,0.32,1.43,0.32
+			s1.37,0.29,1.37,0.29s1.32,0.26,1.32,0.26s0.64,0.12,0.64,0.12s0.63,0.11,0.63,0.11s0.61,0.1,0.61,0.1l0.6,0.09
+			c0,0,0.59,0.08,0.59,0.08c0.79,0.11,1.78,0.22,2.58,0.28c0,0,0.63,0.05,0.63,0.05s3.55,0.23,3.55,0.23s0.56,0.05,0.56,0.05
+			s0.56,0.05,0.56,0.05s0.28,0.03,0.28,0.03s0.28,0.03,0.28,0.03s0.28,0.04,0.28,0.04s0.28,0.04,0.28,0.04s0.28,0.04,0.28,0.04
+			c1.03,0.16,2.08,0.42,3.07,0.72c0,0,0.33,0.1,0.33,0.1s0.33,0.11,0.33,0.11s0.33,0.11,0.33,0.11s0.67,0.23,0.67,0.23
+			s0.68,0.25,0.68,0.25s0.7,0.26,0.7,0.26s1.44,0.57,1.44,0.57c16.42,7,45.95,16.53,62.79,22.43c3.99,1.46,8.44,3.02,12.26,4.85
+			c1.63,0.8,3.26,1.68,4.66,2.86c0.74,0.62,1.39,1.36,1.89,2.19c0.66,1.07,1.09,2.35,1.51,3.53"/>
+	</g>
+	<g id="POLYLINE_00000006698840417393067760000009667097096583976872_">
+		<path class="st125" d="M516.28,389.35c-0.02,0.19-0.04,0.46-0.06,0.65c-0.09,1.21-0.1,2.65-0.42,3.81
+			c-0.18,0.65-0.47,1.28-0.89,1.82c-0.51,0.67-1.21,1.18-1.93,1.6c-0.92,0.53-1.93,0.93-2.93,1.28c-4.56,1.57-13.78,3.14-18.57,4.2
+			c-3.89,0.85-7.94,1.89-11.72,3.13c-5.1,1.65-10.39,3.77-15.32,5.89c-5.81,2.49-17.3,8.02-23.17,9.88
+			c-1.22,0.37-2.49,0.74-3.77,0.78c-0.39,0-0.82-0.03-1.16-0.25l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01
+			l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01L436.2,422l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01
+			l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01
+			l-0.01-0.01l-0.01-0.01l-0.01-0.01l-0.01-0.01l0-0.01l0-0.01l0-0.02l-0.01-0.02l0-0.02l0-0.02l0-0.02l0-0.02l0-0.02l0-0.02l0-0.02
+			l0-0.02l0-0.02l0-0.02l0-0.02l0-0.02l0-0.02c0.03-0.51,0.25-0.99,0.48-1.43c0.66-1.23,1.57-2.35,2.47-3.42
+			c2.97-3.44,6.41-6.57,9.93-9.44c4.66-3.78,9.69-7.19,14.94-10.1c3.24-1.79,6.67-3.44,10.13-4.77c3.48-1.37,8.06-2.64,11.57-3.95
+			c1.06-0.41,2.14-0.87,3.13-1.44c0.61-0.36,1.2-0.77,1.71-1.27c0.52-0.51,0.93-1.13,1.22-1.81c0.38-0.89,0.56-1.86,0.69-2.82
+			l0.2-1.86"/>
+	</g>
+</g>
+<g id="_x32_D_x24_AG-OUTLINE">
+	<g id="POLYLINE_00000111872373643530428520000014880828244242939526_">
+		<path class="st127" d="M707.61,405.9c-0.42-1.19-0.84-2.46-1.51-3.53c-0.5-0.83-1.15-1.56-1.89-2.19
+			c-1.39-1.17-3.03-2.06-4.66-2.86c-3.81-1.83-8.28-3.39-12.26-4.85c-16.98-5.94-46.88-15.62-62.79-22.43
+			c-1.48-0.6-2.97-1.17-4.48-1.63c-1.8-0.57-3.7-0.87-5.58-1c-2.28-0.15-4.62-0.26-6.76-0.56c-2.33-0.32-4.89-0.86-7.19-1.38
+			c-27.45-6.74-84.65-20.7-112.58-26.65c-4.39-0.85-10.28-1.87-14.69-2.54c-33.83-4.72-90.66-13.64-123.91-17.05
+			c-11.02-1.1-23.35-1.98-34.4-2.41c-8.4-0.48-43.24-0.57-52.3-0.66c-3.17-0.05-6.5-0.12-9.63-0.62c-1.52-0.24-3.06-0.61-4.51-1.14
+			c-2.28-0.79-5.33-2.39-7.52-3.46c-2.62-1.27-5.4-2.37-8.17-3.29c-2.8-0.91-5.7-1.72-8.6-2.22c-0.91-0.15-1.86-0.27-2.79-0.28
+			c-0.65-0.01-1.31,0.03-1.95,0.18c-0.52,0.13-1.04,0.33-1.43,0.7c-0.16,0.15-0.28,0.35-0.31,0.56c-0.03,0.22,0.04,0.44,0.15,0.64
+			c0.34,0.62,1.29,1.48,1.78,2.01c1.01,1.07,1.93,2.24,2.71,3.49c0.48,0.79,0.92,1.63,1.18,2.52c0.16,0.55,0.25,1.13,0.16,1.7
+			c-0.11,0.83-0.61,1.56-1.22,2.12c-1.06,0.97-2.35,1.63-3.63,2.26c-2.05,0.97-4.27,1.8-6.41,2.55
+			c-5.45,2.01-33.74,9.86-39.77,11.66c-13.48,4.02-27.01,8.79-39.08,16.12c-5.41,3.27-10.56,7.16-15.39,11.24
+			c-7.5,6.19-19.4,18.43-26.44,25.36c-3.27-1.7-6.85-2.81-10.43-3.61c-2.01-0.43-4.07-0.83-6.13-0.76
+			c-0.61,0.03-1.23,0.11-1.79,0.33c-0.35,0.14-0.68,0.35-0.89,0.67c-0.3,0.43-0.34,0.98-0.34,1.49c0.04,1.22,0.38,2.64,0.4,3.86
+			c0.01,0.69-0.05,1.39-0.29,2.04c-0.65,1.73-2.24,3.05-3.49,4.35c-0.43,0.45-0.86,0.91-1.21,1.43c-0.21,0.32-0.39,0.66-0.5,1.03
+			c-0.13,0.49-0.12,1-0.03,1.49c0.13,0.74,0.41,1.52,0.58,2.25c0.14,0.61,0.2,1.27-0.03,1.87c-0.28,0.74-0.82,1.34-1.38,1.88
+			c-0.99,0.96-2.34,2-3.32,2.97c-0.64,0.62-1.23,1.3-1.72,2.03c-1.07,1.59-1.78,3.41-2.33,5.24c-0.89,2.96-1.78,7.72-2.53,10.74
+			c-0.95,3.89-2.11,7.98-3.35,11.79c-1.44,4.4-3.12,8.94-5.03,13.15c-1.71,3.87-4.5,8.75-6.24,12.61c-0.43,1.01-0.87,2.07-1.01,3.17
+			c-0.03,0.28-0.04,0.57,0.03,0.85c0.05,0.2,0.16,0.4,0.34,0.52l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01c0.3,0.17,0.67,0.15,1,0.1
+			c0.41-0.07,0.81-0.22,1.2-0.38c0.61-0.26,1.2-0.59,1.76-0.95c2.41-1.54,4.52-3.54,6.49-5.59c1.84-1.92,3.74-4.11,5.43-6.16
+			c6.41-7.72,17.42-22.77,23.69-30.75c6.98-8.88,14.79-17.63,22.88-25.51c3.94-0.67,8.16-1.06,12.16-1.32
+			c15.29-0.89,33.24-0.56,48.41-2.35c6.79-0.76,19-2.25,25.65-2.73c3.77-0.29,8.29-0.49,12.07-0.57c9.01-0.39,61.23,1.29,71.28,1.46
+			c3.59,0.12,9.02,0.38,12.61,0.65c6.35,0.46,13.5,1.24,19.83,2.02c34.43,4.41,98.15,15.92,132.39,20.09
+			c-0.69,0.91-1.38,1.84-1.8,2.91c-0.12,0.34-0.23,0.72-0.13,1.08l0,0.01l0,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01
+			l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01
+			l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01l0.01,0.01
+			l0.01,0.01l0.01,0.01l0.01,0.01c0.18,0.12,0.39,0.18,0.59,0.22c0.35,0.06,0.71,0.04,1.06,0.01c1.11-0.11,2.21-0.42,3.27-0.75
+			c2.32-0.73,4.68-1.7,6.92-2.65c18.13,2.06,37.16,3.44,55.4,3.6c30.53,0.46,72.12-2.81,102.72-3.54c8.31-0.2,18.21-0.23,26.5,0.05
+			c7.13,0.25,20.12,0.85,27.07,0.78c5.35-0.02,11.12-0.27,16.44-0.77c5.03-0.48,10.4-1.18,15.36-2.13c3.17-0.62,6.44-1.36,9.52-2.34
+			c1.61-0.52,3.23-1.12,4.72-1.92c0.91-0.5,1.81-1.09,2.49-1.88C709.9,409,709.17,407.31,707.61,405.9z"/>
+	</g>
+</g>
+</svg>

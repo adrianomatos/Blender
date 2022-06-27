@@ -1,0 +1,10 @@
+Atividade 08 - Modelagem de eletrodomésticos low poly
+Samuel Levi Silva de Oliveira
+
+Pra essa atividade vocês terão que modelar 3 tipos de eletrodomésticos diferentes:
+Uma batedeira;
+Um fogão;
+Um liquidificador;
+
+
+Como sempre, print ou arquivos de imagem no docs.
